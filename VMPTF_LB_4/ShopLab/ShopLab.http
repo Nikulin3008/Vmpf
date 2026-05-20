@@ -1,0 +1,6 @@
+@ShopLab_HostAddress = http://localhost:5058
+
+GET {{ShopLab_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
